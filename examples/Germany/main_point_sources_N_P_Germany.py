@@ -15,8 +15,9 @@ LICENSE:
 
 PLEASE CITE THIS PUBLICATION IF YOU USE THIS CODE:
     
-    Kumar, R., Gridded dataset of nitrogen and phosphorus point sources from  
-    wastewater in Germany (1950-2019), submitted to Earth System Science Data.
+    Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and 
+    phosphorus point sources from wastewater in Germany (1950-2019), submitted 
+    to Earth System Science Data.
 
 
 INPUT DATA TO RUN THE CODE:
