@@ -23,7 +23,7 @@ Module containing functions to estimate domestic and industrial/commercial N and
 
 - *domestic_nutrient_gross_emissions*: function to calculate N and P domestic gross human emissions corresponding to human excreta based on protein supply data.
 
-- *domestic_nutrient_net_emissions*:function to calculate domestic N and P net emissions, i.e. it determines the fate of domestic gross emissions (treated and untreated point sources or other fates).
+- *domestic_nutrient_net_emissions*: function to calculate domestic N and P net emissions, i.e. it determines the fate of domestic gross emissions (treated and untreated point sources or other fates).
 
 - *industrial_nutrient_gross_emissions*: function to calculates industrial/commercial gross emissions that are collected by the sewer system.
 
