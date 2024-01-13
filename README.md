@@ -9,7 +9,7 @@ If you would like to use the software, please cite the following publication:
 
 Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019), submitted to Earth System Science Data.
 
-DOI for latest sofware version (V1.1): 
+DOI for latest sofware version (V1.0): 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10501238.svg)](https://doi.org/10.5281/zenodo.10501238)
 
