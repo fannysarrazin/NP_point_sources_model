@@ -39,7 +39,7 @@ Module containing functions Module to disaggregate N and P emissions from wastew
 
 ### Example
 
-#### *main_point_sources_N_P_Germany.py*
+#### *Germany/main_point_sources_N_P_Germany.py*
 
 Main file to estimate the N and P emissions for Germany in the following publication: Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019), submitted to Earth System Science Data. 
 
