@@ -33,7 +33,7 @@ Module containing functions to estimate domestic and industrial/commercial N and
 
 #### *disaggregation_NP_point_sources_grid.py*
 
-Module containing functions Module to disaggregate N and P emissions from wastewater to grid level:
+Module containing functions to disaggregate N and P emissions from wastewater to grid level:
 
 - *NUTS2grid*: function to estimate the values at grid level of a variable provided at a certain spatial (NUTS) level.
 
