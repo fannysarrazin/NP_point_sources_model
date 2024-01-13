@@ -19,7 +19,7 @@ The model code is contained in two modules:
 
 #### *model_NP_emissions.py*
 
-Module containing functions to estimate domestic and industrial/commercial N and P gross and net emissions from wastewater at the spatial level for which the input data at available (i.e. urban and rural population data, protein data, detergent data, population connection data:
+Module containing functions to estimate domestic and industrial/commercial N and P gross and net emissions from wastewater at the spatial level for which the input data at available (i.e. urban and rural population data, protein data, detergent data, population connection data):
 
 - *domestic_nutrient_gross_emissions*: function to calculate N and P domestic gross human emissions corresponding to human excreta based on protein supply data.
 
