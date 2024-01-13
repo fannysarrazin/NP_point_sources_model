@@ -12,7 +12,7 @@ Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and phosph
 DOI for latest sofware version (V1.1): 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10501238.svg)](https://doi.org/10.5281/zenodo.10501238)
-https://doi.org/10.5281/zenodo.10501238
+
 ### Code description
 
 The model code is contained in two modules:
