@@ -7,7 +7,7 @@ Model to estimate Nitrogen (N) and Phosphorus (P) point sources and other N and 
 
 If you would like to use the software, please cite the following publication:
 
-Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019), submitted to Earth System Science Data.
+Sarrazin, F. J., Attinger, A., Kumar, R. (2024, in review). Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019), Earth System Science Data Discussion. [preprint], https://doi.org/10.5194/essd-2023-474
 
 DOI for latest sofware version (V1.0): 
 
