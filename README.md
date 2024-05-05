@@ -44,3 +44,7 @@ Module containing functions to disaggregate N and P emissions from wastewater to
 Main file to estimate the N and P emissions for Germany in the following publication: Sarrazin, F. J., Attinger, A., Kumar, R., Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019), submitted to Earth System Science Data. 
 
 The necessary input data to run the code are available from: Sarrazin, F. J., Attinger, S., & Kumar, R. (2024). Gridded dataset of nitrogen and phosphorus point sources from wastewater in Germany (1950-2019) (1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10500535
+
+### Contact
+
+Fanny Sarrazin (fanny.sarrazin@inrae.fr), Rohini Kumar (rohini.kumar@ufz.de)
